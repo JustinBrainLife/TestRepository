@@ -1,0 +1,12 @@
+h1 {
+    color: hsl(120, 100%, 25%);
+}
+
+p {
+    font-size: large;
+}
+
+footer {
+    border-color: orange;
+    border-width: 3px;
+}
